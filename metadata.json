@@ -1,0 +1,8 @@
+{
+  "name": "MoneyCraft",
+  "description": "一款遊戲化、AI 驅動的個人財務追蹤器，將支出轉化為視覺資產並提供基於角色的洞察。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
